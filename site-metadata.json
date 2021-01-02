@@ -2,7 +2,7 @@
     "base_font": "nunito-sans",
     "palette": "blue",
     "header": {
-        "logo_img": "images/logo.svg",
+        "logo_img": "images/79E94F8C-CE59-4B9F-9E33-675262B608C2.png",
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
@@ -37,7 +37,7 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/logo-alt.svg",
+                "image": "images/2.jpg",
                 "image_url": "/",
                 "image_alt": "Footer logo",
                 "content": "Stackbit theme demo"
@@ -131,5 +131,6 @@
         ],
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created on <a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Get yours <a href=\"https://app.stackbit.com/create?theme=azimuth\" target=\"_blank\" rel=\"noopener\">here</a>."
     },
-    "title": "Azimuth"
+    "title": "bp pulse",
+    "domain": ""
 }
