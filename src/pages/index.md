@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/2DDBCDB6-14BD-4595-95DC-FB72D5841007.jpeg
+    image: images/841A26DD-5A48-4604-834C-777D5D1D8AE7.png
     image_alt: App preview
     title: bp pulse
     content: Welcome to our new electrification brand
